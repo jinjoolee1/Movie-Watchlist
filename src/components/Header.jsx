@@ -1,7 +1,4 @@
-import Header from './components/Header'
 
-return (
-    <div className='App'>
-        <Header />
-    </div>
-)
+<header>
+    <h2>Emma's Movie App</h2>
+</header>
