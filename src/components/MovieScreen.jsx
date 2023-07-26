@@ -30,7 +30,7 @@ const MovieScreen = (props) => {
 
   return (
     <div className={"page"}>
-      <h1>Rebecca's Movie Theatre</h1>
+      <h1>Emma's Movie Theatre</h1>
       <h3>Add a movie to your watchlist</h3>
       <div className={"btn-container"}>
         <button onClick={page != 1 && decrement}>Previous</button>
